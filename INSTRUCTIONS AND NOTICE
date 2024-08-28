@@ -1,0 +1,9 @@
+HOW TO OPERATE
+1.) Run C++ file on compiler
+2.) Enter an id number for the student ex: (id: 123456)
+3.) Enter in 4 test grades for the student
+4.) Do this for the next couple of students
+
+RESULTS: You'll see all the students letter grades and the whole student body's average for each test
+PURPOSE: Gain a basic understanding on how User Interface (UI) work via this simple example
+NOTE: You can playaround and modify this code to learn more or improve my code's U.I
